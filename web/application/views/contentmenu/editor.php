@@ -30,5 +30,10 @@
                 Irrelevant
             </a>
         </li>
+        <li>
+            <a class="<?php echo($irrelevant_class); ?>" href="<?php echo(url::base()); ?>contentlist/get/irrelevant">
+                Keyword Hits
+            </a>
+        </li>
     </ul>
 </div>
